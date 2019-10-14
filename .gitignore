@@ -4,5 +4,5 @@
 
 !*.ipynb
 
-Advanced/
-Intermediate/
+Advanced/!*.ipynb
+Intermediate/!*.ipynb
