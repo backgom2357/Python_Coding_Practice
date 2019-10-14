@@ -1,5 +1,8 @@
 # Ignore
 
 .ipynb_checkpoints
-./Advanced/.ipynb_checkpoints/
-./Intermediate/.ipynb_checkpoints/
+
+!*.ipynb
+
+Advanced/
+Intermediate/
